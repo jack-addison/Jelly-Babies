@@ -1,0 +1,23 @@
+Paper-scissors-stone. . . and jelly babies!
+(Pre-requisite: None, but willingness to code)
+
+Four children play a long sequence of paper-scissors-stone games in pairs. They divide up 40 jelly babies,
+starting with 10 each.
+The eldest child begins the sequence by choosing an opponent at random, then the next eldest chooses at
+random, and so on, to complete the round of 4 games. If a child wins a game, the loser gives the winner a jelly
+baby. If the game is a draw no sweets are exchanged. In each game, there is an equal probability of winning,
+losing or drawing.
+
+There are two versions of the rules:
+(a) If a child, at any time, has no sweets, they are eliminated.
+(b) If a child with no sweets plays a child with sweets, they automatically win.
+
+Carry out a computer simulation of the game.
+
+For case (a) find out how long (how many rounds), on average, the game lasts. How does the duration of the
+game vary with the number of children and the number of sweets?
+For case (b) find out the fraction of time the oldest child has no sweets, and the fraction of time when they
+have all the sweets. Can you explain these values mathematically?
+
+Extension:
+Extend to follow the rules of "rock paper scissors spock lizard" form the big bang theory.
