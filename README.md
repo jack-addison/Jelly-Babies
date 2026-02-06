@@ -8,3 +8,4 @@ What’s in here (brief):
 How we run it:
 - Open the notebook and run top‑to‑bottom.
 - Use the `TESTING_MODE` toggle near the top to switch between fast runs and longer, smoother runs.
+- Note: case (b) can take a long time because it uses many long simulation runs (especially for rare-event estimates).
